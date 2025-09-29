@@ -27,12 +27,10 @@ How to Run
 Clone the repository:
 git clone <your-repo-url>
 
-Install dependencies:
-pip install pandas scikit-learn matplotlib seaborn
+Install dependencies: pip install pandas scikit-learn matplotlib seaborn
 
 Open the Jupyter Notebook (.ipynb) and run all cells.
-Dataset
-The dataset is the Car Evaluation dataset from the UCI Machine Learning Repository. It contains categorical features describing car attributes and a target variable indicating car acceptability.
+Dataset: The dataset is the Car Evaluation dataset from the UCI Machine Learning Repository. It contains categorical features describing car attributes and a target variable indicating car acceptability.
 Dataset link: UCI Car Evaluation Dataset
 
 Results & Insights
